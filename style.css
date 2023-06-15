@@ -1,0 +1,31 @@
+.cont {
+    background-color: black;
+    color: white;
+    margin: -10px;
+    margin-top: -22px;
+}
+
+img {
+    margin-left: 550px;
+}
+
+.logo {
+   margin-left: 20px;
+}
+body {
+    background-image: url(https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667);
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    
+}
+
+/*
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 22px;
+}
+*/
